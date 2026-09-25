@@ -1,4 +1,4 @@
-Vehicle Damage Insurance AI
+# Vehicle Damage Insurance AI
 
 An AI-powered vehicle damage assessment and intelligent insurance claim assistant that combines Computer Vision, Retrieval-Augmented Generation (RAG), and Large Language Models (LLMs) to analyze vehicle damage and support insurance claim assessment.
 
